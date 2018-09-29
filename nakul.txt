@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hi
 tata
 cya
+=======
+Bye
+Hi
+hello
+>>>>>>> 22abe08c6031ff77a6fc331b668c8afa684ef4d5
